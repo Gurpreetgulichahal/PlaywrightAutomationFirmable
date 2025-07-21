@@ -1,0 +1,258 @@
+{
+  "cookies": [
+    {
+      "name": "__client_uat",
+      "value": "0",
+      "domain": ".firmable.com",
+      "path": "/",
+      "expires": 1784375464,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__clerk_db_jwt",
+      "value": "dvb_302xRcCwqvmKGD0Y9iq7K8PPvkL",
+      "domain": "staging.firmable.com",
+      "path": "/",
+      "expires": 1784375467,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "cNGX9izYhxPgwY1LD4HPuNtqOcfCgweILJ560mv.e5Q-1752839463-1.0.1.1-ydzNRJogSAK3teaSfKXTm_WD7a_.X.W_SCAgBnmFznKMNid8bXB6ULvIyEh8GqNE7bOUbEuR5qrqAG1nan18qSpNm_PLZ5EfFg92_wPDnZc",
+      "domain": ".crack-crappie-35.clerk.accounts.dev",
+      "path": "/",
+      "expires": 1752841263.622653,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "eEQJKt7OCAC_8BRz_Sgn3tJGHv9EFm3tfZKUMXb2_aA-1752839463097-0.0.1.1-604800000",
+      "domain": ".crack-crappie-35.clerk.accounts.dev",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__clerk_db_jwt_8csSYNzu",
+      "value": "dvb_302xRcCwqvmKGD0Y9iq7K8PPvkL",
+      "domain": "staging.firmable.com",
+      "path": "/",
+      "expires": 1784375467,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__client_uat_8csSYNzu",
+      "value": "0",
+      "domain": ".firmable.com",
+      "path": "/",
+      "expires": 1784375464,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "h4vEPLxWr4U7i40AyAp9TWgmA3hNTPrmkc9mjF3in3I-1752839464-1.0.1.1-bD3cu2xXj_j5WjmMLxi3tdTZ3dUeKRoi6LQKEKadHT86c0eN.wxm29xomYWqDePa4hJ.FWzJOsZ2MvciADRtP7o_rMOxUwoxFRsJm1XmwEI",
+      "domain": ".hs-scripts.com",
+      "path": "/",
+      "expires": 1752841265.122058,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "vercel-experiment-uuid",
+      "value": "tcoQJooVsvJfXIRp7eSwk",
+      "domain": "vercel.live",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://firmable.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1942557411.1752839465",
+      "domain": ".firmable.com",
+      "path": "/",
+      "expires": 1787399465.334055,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "H3FF9b3HUbxeHf4nCOlpLfvmuf76KxvTYLVJqsacCZ8-1752839465-1.0.1.1-wsOip6LW8Hwbr0EVHgNcDT0LDM4gA68PexSCGn9H6XK2jYwUo.DuqIOBZIYvOt2zS28Im90CqLH4aQw5FmU1WlOyIKaRDsHPHh6ksl611XI",
+      "domain": ".usemessages.com",
+      "path": "/",
+      "expires": 1752841265.418187,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "E4Mkzva9k0nyUFMrl_LaOMIGN8DSvhAJVZvueXHXzFU-1752839465-1.0.1.1-Oz5lC1NnmZ56svIXYl.XAGr.AgQN0QhX4sPMcKLEIjchzea9x3AisXeqt8MojHrDDlLp3vriDNrEQ0uYCmtW_zywzjxewgrbSeXwTUBAiF4",
+      "domain": ".hs-analytics.net",
+      "path": "/",
+      "expires": 1752841265.541949,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ph_phc_pqjcSnNQAFb2xRPFlBKE0gxpxp9y4nyzKS1v3KwdgiF_posthog",
+      "value": "%7B%22distinct_id%22%3A%2201981d5f-abe9-7cf0-8454-ea533d635bcf%22%2C%22%24sesid%22%3A%5B1752839465955%2C%2201981d5f-abe3-70c3-a0ca-f392b1b26e17%22%2C1752839465955%5D%7D",
+      "domain": ".firmable.com",
+      "path": "/",
+      "expires": 1784375466,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "Y_yxdWo1fr7DuBf0FGwYTCRsfWSt0hLeC9Had9Mel9k-1752839465-1.0.1.1-hBpPLmtfUt0vQdECyDN9oL6oLB5YUSlcEbpMmbLa.ifJPXnR3cWgMVTLksqQD3n1AYh67HrIGQCgBVUh0GwandK5LrfT1dHTyKMzpikAons",
+      "domain": ".hs-banner.com",
+      "path": "/",
+      "expires": 1752841266.143221,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__hstc",
+      "value": "82865033.207310a6573761efe74367172b94150f.1752839467038.1752839467038.1752839467038.1",
+      "domain": ".firmable.com",
+      "path": "/",
+      "expires": 1768391467,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hubspotutk",
+      "value": "207310a6573761efe74367172b94150f",
+      "domain": ".firmable.com",
+      "path": "/",
+      "expires": 1768391467,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__hssrc",
+      "value": "1",
+      "domain": ".firmable.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__hssc",
+      "value": "82865033.1.1752839467039",
+      "domain": ".firmable.com",
+      "path": "/",
+      "expires": 1752841267,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_CWX4R06X64",
+      "value": "GS2.1.s1752839465$o1$g0$t1752839467$j58$l0$h0",
+      "domain": ".firmable.com",
+      "path": "/",
+      "expires": 1787399467.604954,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "DaFOI7N9K15IAAlE33d1P0Qkd1sZLFTONgIOIF.q8bE-1752839467-1.0.1.1-k2DMaqxzEAy43SeQOhFgX1CdktgFS8tXgEWMFfYGuj.w4pL2Su14g7d7CxgmdUuX7TiOPoj51XLnocGxuKjMtjPTcp5weMdIHDxLk4wLdNU",
+      "domain": ".hubspot.com",
+      "path": "/",
+      "expires": 1752841267.775471,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "WZeRIfdvsD6JH_.1_P92Vp9H9dAjL_jhiFnEEn3ZZFE-1752839467503-0.0.1.1-604800000",
+      "domain": ".hubspot.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "l5tlL1q6lPFJ8fT2AFOR2EDQPam9bDn2DbpWFHpDxXU-1752839467-1.0.1.1-rGPE.59MBNHKZLtOmU4FRcK9fHqD7OAt7feQ1OpXbD.GFVSP59xV.3yOt1w5NDqk3jElq2Gn1atqhklwvCA7ACGFX.ytv1lPfOdRWB3IG2k",
+      "domain": ".hsforms.com",
+      "path": "/",
+      "expires": 1752841267.920985,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "w_6EZzSbduUVIc1XbafI46UC1HOP3t.64SpePyAyjZc-1752839467681-0.0.1.1-604800000",
+      "domain": ".hsforms.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://staging.firmable.com",
+      "localStorage": [
+        {
+          "name": "__clerk_environment",
+          "value": "{\"value\":{\"object\":\"environment\",\"auth_config\":{\"claimed_at\":null,\"id\":\"\",\"object\":\"auth_config\",\"reverification\":false,\"single_session_mode\":true},\"display_config\":{\"object\":\"display_config\",\"after_create_organization_url\":\"https://staging.firmable.com\",\"after_join_waitlist_url\":\"https://staging.firmable.com\",\"after_leave_organization_url\":\"https://staging.firmable.com\",\"after_sign_in_url\":\"https://staging.firmable.com\",\"after_sign_out_all_url\":\"https://staging.firmable.com\",\"after_sign_out_one_url\":\"https://crack-crappie-35.accounts.dev/sign-in/choose\",\"after_sign_up_url\":\"https://staging.firmable.com/dashboard/create-org\",\"after_switch_session_url\":\"https://staging.firmable.com\",\"application_name\":\"Firmable-App\",\"branded\":false,\"captcha_heartbeat\":false,\"captcha_oauth_bypass\":[\"oauth_apple\",\"oauth_google\",\"oauth_microsoft\",\"oauth_token_apple\"],\"captcha_provider\":\"turnstile\",\"captcha_public_key_invisible\":null,\"captcha_public_key\":null,\"captcha_widget_type\":null,\"clerk_js_version\":\"5\",\"create_organization_url\":\"https://crack-crappie-35.accounts.dev/create-organization\",\"favicon_image_url\":\"https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvdXBsb2FkZWQvaW1nXzJPb2JRWmlmZ3NuMGZtMDN0SWJuNGxYTGtMcy5wbmcifQ\",\"home_url\":\"https://staging.firmable.com\",\"id\":\"display_config_2OdRT2xsa8jRPRSuTtVF3IgW9iU\",\"instance_environment_type\":\"development\",\"logo_image_url\":\"https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvdXBsb2FkZWQvaW1nXzJaT2hlRjdzQUY3N1RNNm5lRktzUDBkU2RlQyJ9\",\"organization_profile_url\":\"https://crack-crappie-35.accounts.dev/organization\",\"preferred_sign_in_strategy\":\"password\",\"privacy_policy_url\":\"\",\"show_devmode_warning\":false,\"sign_in_url\":\"https://staging.firmable.com/sign-in\",\"sign_up_url\":\"https://staging.firmable.com/sign-up\",\"support_email\":\"support@firmable.com\",\"terms_url\":\"\",\"theme\":{\"buttons\":{\"font_color\":\"#ffffff\",\"font_family\":\"\\\"Rubik\\\", sans-serif\",\"font_weight\":\"600\"},\"general\":{\"color\":\"#6c47ff\",\"padding\":\"1em\",\"box_shadow\":\"0 2px 8px rgba(0, 0, 0, 0.2)\",\"font_color\":\"#1A2C4A\",\"font_family\":\"\\\"Work Sans\\\", sans-serif\",\"border_radius\":\"0.5em\",\"background_color\":\"#ffffff\",\"label_font_weight\":\"600\"},\"accounts\":{\"background_color\":\"#ffffff\"}},\"user_profile_url\":\"https://crack-crappie-35.accounts.dev/user\",\"waitlist_url\":\"https://crack-crappie-35.accounts.dev/waitlist\"},\"id\":\"\",\"maintenance_mode\":false,\"organization_settings\":{\"actions\":{\"admin_delete\":false},\"domains\":{\"enabled\":false,\"enrollment_modes\":[],\"default_role\":\"basic_member\"},\"enabled\":true,\"max_allowed_memberships\":0},\"user_settings\":{\"actions\":{\"delete_self\":false,\"create_organization\":true,\"create_organizations_limit\":1},\"attributes\":{\"email_address\":{\"enabled\":true,\"required\":true,\"used_for_first_factor\":true,\"first_factors\":[\"email_code\",\"email_link\"],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[\"email_code\"],\"verify_at_sign_up\":true,\"name\":\"email_address\"},\"phone_number\":{\"enabled\":true,\"required\":true,\"used_for_first_factor\":true,\"first_factors\":[\"phone_code\"],\"used_for_second_factor\":true,\"second_factors\":[\"phone_code\"],\"verifications\":[\"phone_code\"],\"verify_at_sign_up\":true,\"name\":\"phone_number\"},\"username\":{\"enabled\":false,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"name\":\"username\"},\"web3_wallet\":{\"enabled\":false,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"name\":\"web3_wallet\"},\"first_name\":{\"enabled\":true,\"required\":true,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"name\":\"first_name\"},\"last_name\":{\"enabled\":true,\"required\":true,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"name\":\"last_name\"},\"password\":{\"enabled\":true,\"required\":true,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"name\":\"password\"},\"authenticator_app\":{\"enabled\":false,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"name\":\"authenticator_app\"},\"ticket\":{\"enabled\":true,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"name\":\"ticket\"},\"backup_code\":{\"enabled\":false,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"name\":\"backup_code\"},\"passkey\":{\"enabled\":false,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"name\":\"passkey\"}},\"passkey_settings\":{\"allow_autofill\":true,\"show_sign_in_button\":true},\"password_settings\":{\"disable_hibp\":false,\"min_length\":8,\"max_length\":72,\"require_special_char\":false,\"require_numbers\":false,\"require_uppercase\":false,\"require_lowercase\":false,\"show_zxcvbn\":false,\"min_zxcvbn_strength\":0,\"enforce_hibp_on_sign_in\":false,\"allowed_special_characters\":\"!\\\"#$%&'()*+,-./:;<=>?@[]^_`{|}~\"},\"saml\":{\"enabled\":false},\"sign_in\":{\"second_factor\":{\"required\":false}},\"sign_up\":{\"captcha_enabled\":false,\"captcha_widget_type\":\"\",\"custom_action_required\":false,\"progressive\":true,\"mode\":\"public\",\"legal_consent_enabled\":false},\"social\":{\"oauth_apple\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_apple\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Apple\",\"logo_url\":\"https://img.clerk.com/static/apple.png\"},\"oauth_atlassian\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_atlassian\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Atlassian\",\"logo_url\":\"https://img.clerk.com/static/atlassian.png\"},\"oauth_bitbucket\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_bitbucket\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Bitbucket\",\"logo_url\":\"https://img.clerk.com/static/bitbucket.png\"},\"oauth_box\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_box\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Box\",\"logo_url\":\"https://img.clerk.com/static/box.png\"},\"oauth_coinbase\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_coinbase\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Coinbase\",\"logo_url\":\"https://img.clerk.com/static/coinbase.png\"},\"oauth_discord\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_discord\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Discord\",\"logo_url\":\"https://img.clerk.com/static/discord.png\"},\"oauth_dropbox\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_dropbox\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Dropbox\",\"logo_url\":\"https://img.clerk.com/static/dropbox.png\"},\"oauth_facebook\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_facebook\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Facebook\",\"logo_url\":\"https://img.clerk.com/static/facebook.png\"},\"oauth_github\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_github\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"GitHub\",\"logo_url\":\"https://img.clerk.com/static/github.png\"},\"oauth_gitlab\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_gitlab\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"GitLab\",\"logo_url\":\"https://img.clerk.com/static/gitlab.png\"},\"oauth_google\":{\"enabled\":true,\"required\":false,\"authenticatable\":true,\"block_email_subaddresses\":false,\"strategy\":\"oauth_google\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Google\",\"logo_url\":\"https://img.clerk.com/static/google.png\"},\"oauth_hubspot\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_hubspot\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"HubSpot\",\"logo_url\":\"https://img.clerk.com/static/hubspot.png\"},\"oauth_line\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_line\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"LINE\",\"logo_url\":\"https://img.clerk.com/static/line.png\"},\"oauth_linear\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_linear\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Linear\",\"logo_url\":\"https://img.clerk.com/static/linear.png\"},\"oauth_microsoft\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_microsoft\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Microsoft\",\"logo_url\":\"https://img.clerk.com/static/microsoft.png\"},\"oauth_notion\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_notion\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Notion\",\"logo_url\":\"https://img.clerk.com/static/notion.png\"},\"oauth_slack\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_slack\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Slack\",\"logo_url\":\"https://img.clerk.com/static/slack.png\"},\"oauth_spotify\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_spotify\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Spotify\",\"logo_url\":\"https://img.clerk.com/static/spotify.png\"},\"oauth_tiktok\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_tiktok\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"TikTok\",\"logo_url\":\"https://img.clerk.com/static/tiktok.png\"},\"oauth_twitch\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_twitch\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Twitch\",\"logo_url\":\"https://img.clerk.com/static/twitch.png\"},\"oauth_twitter\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_twitter\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Twitter\",\"logo_url\":\"https://img.clerk.com/static/twitter.png\"},\"oauth_xero\":{\"enabled\":false,\"required\":false,\"authenticatable\":false,\"block_email_subaddresses\":false,\"strategy\":\"oauth_xero\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Xero\",\"logo_url\":\"https://img.clerk.com/static/xero.png\"}}},\"commerce_settings\":{\"billing\":{\"stripe_publishable_key\":\"\",\"enabled\":false,\"has_paid_user_plans\":false,\"has_paid_org_plans\":false}},\"api_keys_settings\":{\"enabled\":false}},\"exp\":1752925864328}"
+        },
+        {
+          "name": "ph_phc_pqjcSnNQAFb2xRPFlBKE0gxpxp9y4nyzKS1v3KwdgiF_posthog",
+          "value": "{\"$sesid\":[1752839465955,\"01981d5f-abe3-70c3-a0ca-f392b1b26e17\",1752839465955],\"$client_session_props\":{\"sessionId\":\"01981d5f-abe3-70c3-a0ca-f392b1b26e17\",\"props\":{\"initialPathName\":\"/sign-in\",\"referringDomain\":\"$direct\"}},\"distinct_id\":\"01981d5f-abe9-7cf0-8454-ea533d635bcf\",\"$device_id\":\"01981d5f-abe9-7cf0-8454-ea533d635bcf\",\"$user_state\":\"anonymous\",\"$active_feature_flags\":[],\"$enabled_feature_flags\":{},\"$feature_flag_payloads\":{},\"$session_recording_enabled_server_side\":false,\"$session_recording_network_payload_capture\":{\"capturePerformance\":false},\"$session_recording_canvas_recording\":{},\"$replay_sample_rate\":null,\"$replay_minimum_duration\":null,\"$autocapture_disabled_server_side\":true,\"$heatmaps_enabled_server_side\":false,\"$web_vitals_enabled_server_side\":false,\"$exception_capture_endpoint_suffix\":\"/e/\",\"$exception_capture_enabled_server_side\":false}"
+        },
+        {
+          "name": "li_submission",
+          "value": "{\"formSelectorId\":\"\",\"formSelectorClasses\":\".cl-form, .🔒️, .cl-internal-ji79b9\",\"formAttributes\":{\"id\":null,\"class\":\"cl-form 🔒️ cl-internal-ji79b9\",\"action\":null},\"contactFields\":{\"email\":{\"label\":\"Work email\",\"name\":\"identifier\",\"value\":\"test10qa+clerk_test@gmail.com\",\"type\":\"text\",\"attributes\":{\"placeholder\":\"Enter your email address\"}}},\"fields\":[],\"pageTitle\":\"Firmable Login\",\"pageUrl\":\"https://staging.firmable.com/sign-in\",\"portalId\":44411366,\"token\":466670188,\"type\":\"SCRAPED\",\"utk\":\"207310a6573761efe74367172b94150f\",\"uuid\":\"a58354b1-8d7c-4aa7-8b45-c1d7ad80e3b2\",\"version\":\"collected-forms-embed-js-static-1.3256\"}"
+        }
+      ]
+    },
+    {
+      "origin": "https://vercel.live",
+      "localStorage": [
+        {
+          "name": "vercel-toolbar-experiment-uuid-https://staging.firmable.com",
+          "value": "\"tcoQJooVsvJfXIRp7eSwk\""
+        },
+        {
+          "name": "vid-https://staging.firmable.com",
+          "value": "\"17528394646100.6178309035709507\""
+        }
+      ]
+    }
+  ]
+}
