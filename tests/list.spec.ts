@@ -62,9 +62,13 @@ test.describe('List Page Workflows', () => {
     await listPage.openDanAProfile();
     
     // Interact with profile tabs and actions on the same page
-    await listPage.page.getByText('Dan A.').click();
+    // await listPage.page.waitForSelector('text=Dan A.');
+    //
     await listPage.page.waitForSelector('text=Dan A.');
-    await expect(listPage.page.getByText('Dan A.')).toBeVisible();
+    await expect(
+      listPage.page.locator('span.font-bold.break-all.text-h3', { hasText: 'Dan A.' })
+    ).toBeVisible();
+    
     //await expect(listPage.getByText('Dan A.')).toBeVisible()
     await listPage.page.getByRole('tab', { name: 'Profile' }).click();
     await listPage.page.getByRole('tab', { name: 'Work history' }).click();

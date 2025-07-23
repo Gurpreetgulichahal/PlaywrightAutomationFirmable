@@ -13,7 +13,7 @@ test.describe('Search Page Workflows', () => {
   test('should perform a search, interact with results, and save search', async ({ page }) => {
     // Click the 'Search' link
     await page.getByRole('link', { name: 'Search', exact: true }).click();
-    await page.goto('https://staging.firmable.com/dashboard/search/a9633fe5357f4091b77b69f6afe60f83');
+    // await page.goto('https://staging.firmable.com/dashboard/search/a9633fe5357f4091b77b69f6afe60f83');
 
     // Fill in the search fields
     await searchPage.searchInputName.click();
